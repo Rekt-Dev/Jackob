@@ -20,7 +20,7 @@ function PantsPage() {
           {/* Price */}
           <p className="text-gray-600 text-lg">$XX.XX</p>
           {/* Add to Cart button */}
-          <button className="mt-4 bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-full transition duration-300 transform hover:scale-105">
+          <button className="mt-4 bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-full transition duration-300 transform hover:scale-105 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">
             Add to Cart
           </button>
         </div>
